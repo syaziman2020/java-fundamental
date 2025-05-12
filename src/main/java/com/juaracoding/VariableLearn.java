@@ -19,5 +19,8 @@ public class VariableLearn {
 
         System.out.println("nama: "+name+"\n"+"usia: "+age+"\n"+ "Telepon: "+phone+"\n"+"grade: "+grade+"\n"+"status: "+isVerify+"\n"+"rating: "+rating);
 
+        int mod = 5 % 100;
+
+        System.out.println(mod);
     }
 }
